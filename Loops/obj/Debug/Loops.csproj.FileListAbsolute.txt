@@ -1,0 +1,7 @@
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Loops\bin\Debug\Loops.exe.config
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Loops\bin\Debug\Loops.exe
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Loops\bin\Debug\Loops.pdb
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Loops\obj\Debug\Loops.exe
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Loops\obj\Debug\Loops.pdb

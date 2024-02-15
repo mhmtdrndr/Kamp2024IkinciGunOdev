@@ -1,0 +1,7 @@
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Inheritances\obj\Debug\Inheritances.csproj.AssemblyReference.cache
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Inheritances\obj\Debug\Inheritances.csproj.CoreCompileInputs.cache
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Inheritances\bin\Debug\Inheritances.exe.config
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Inheritances\bin\Debug\Inheritances.exe
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Inheritances\bin\Debug\Inheritances.pdb
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Inheritances\obj\Debug\Inheritances.exe
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Inheritances\obj\Debug\Inheritances.pdb
