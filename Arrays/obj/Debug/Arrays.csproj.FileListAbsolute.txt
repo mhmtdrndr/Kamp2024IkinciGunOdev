@@ -1,0 +1,7 @@
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Arrays\bin\Debug\Arrays.exe.config
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Arrays\bin\Debug\Arrays.exe
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Arrays\bin\Debug\Arrays.pdb
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Arrays\obj\Debug\Arrays.exe
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Arrays\obj\Debug\Arrays.pdb
