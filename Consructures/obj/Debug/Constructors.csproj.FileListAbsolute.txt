@@ -1,0 +1,7 @@
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Consructures\bin\Debug\Consructures.exe.config
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Consructures\bin\Debug\Consructures.exe
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Consructures\bin\Debug\Consructures.pdb
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Consructures\obj\Debug\Constructors.csproj.AssemblyReference.cache
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Consructures\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Consructures\obj\Debug\Consructures.exe
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Consructures\obj\Debug\Consructures.pdb
