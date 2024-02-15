@@ -1,0 +1,7 @@
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\TypesAndVeriables\bin\Debug\TypesAndVeriables.exe.config
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\TypesAndVeriables\bin\Debug\TypesAndVeriables.exe
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\TypesAndVeriables\bin\Debug\TypesAndVeriables.pdb
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\TypesAndVeriables\obj\Debug\TypesAndVeriables.csproj.AssemblyReference.cache
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\TypesAndVeriables\obj\Debug\TypesAndVeriables.csproj.CoreCompileInputs.cache
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\TypesAndVeriables\obj\Debug\TypesAndVeriables.exe
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\TypesAndVeriables\obj\Debug\TypesAndVeriables.pdb

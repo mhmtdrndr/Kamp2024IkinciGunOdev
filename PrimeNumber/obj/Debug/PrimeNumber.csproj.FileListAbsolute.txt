@@ -1,0 +1,7 @@
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\PrimeNumber\obj\Debug\PrimeNumber.csproj.AssemblyReference.cache
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\PrimeNumber\bin\Debug\PrimeNumber.exe
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\PrimeNumber\bin\Debug\PrimeNumber.pdb
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\PrimeNumber\obj\Debug\PrimeNumber.exe
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\PrimeNumber\obj\Debug\PrimeNumber.pdb
