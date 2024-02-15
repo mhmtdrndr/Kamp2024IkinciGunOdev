@@ -1,0 +1,7 @@
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\ReferanceTypes\bin\Debug\ReferanceTypes.exe.config
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\ReferanceTypes\bin\Debug\ReferanceTypes.exe
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\ReferanceTypes\bin\Debug\ReferanceTypes.pdb
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\ReferanceTypes\obj\Debug\ReferanceTypes.csproj.AssemblyReference.cache
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\ReferanceTypes\obj\Debug\ReferanceTypes.csproj.CoreCompileInputs.cache
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\ReferanceTypes\obj\Debug\ReferanceTypes.exe
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\ReferanceTypes\obj\Debug\ReferanceTypes.pdb
