@@ -1,0 +1,7 @@
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Generics\bin\Debug\Generics.exe.config
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Generics\bin\Debug\Generics.exe
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Generics\bin\Debug\Generics.pdb
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Generics\obj\Debug\Generics.exe
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Generics\obj\Debug\Generics.pdb

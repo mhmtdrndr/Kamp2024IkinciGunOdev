@@ -1,0 +1,7 @@
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\LinqProject\bin\Debug\LinqProject.exe.config
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\LinqProject\bin\Debug\LinqProject.exe
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\LinqProject\bin\Debug\LinqProject.pdb
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\LinqProject\obj\Debug\LinqProject.csproj.AssemblyReference.cache
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\LinqProject\obj\Debug\LinqProject.csproj.CoreCompileInputs.cache
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\LinqProject\obj\Debug\LinqProject.exe
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\LinqProject\obj\Debug\LinqProject.pdb
