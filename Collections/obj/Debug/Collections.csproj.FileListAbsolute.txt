@@ -1,0 +1,7 @@
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Collections\bin\Debug\Collections.exe
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Collections\bin\Debug\Collections.exe.config
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Collections\obj\Debug\Collections.exe
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Collections\obj\Debug\Collections.pdb
+D:\calismalarim\c#Calismalar\CSharpCourse\CSharpCourse\Collections\bin\Debug\Collections.pdb
